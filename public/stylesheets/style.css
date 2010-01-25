@@ -1,0 +1,142 @@
+
+body {
+  font-family: Verdana, sans-serif;
+  background: #BBBAAA;
+  color: #FFF;
+  margin: 0 auto;
+  font-size: small;
+  text-align: justify;
+  height: 100%;
+  position: relative;
+  width: 750px;
+}
+
+div#header {
+  background: #4F4F4F;
+  color: #FFF;
+  border: 2px solid black;
+  padding: 1em;
+}
+div#menu {
+    float:left;
+    width:100%;
+    background:#DAE0D2 url("../images/bg.gif")repeat-x bottom;
+    font-size:93%;
+    line-height:normal;
+}
+#menu ul {
+    margin:0;
+    padding:10px 10px 0;
+    list-style:none;
+    }
+#menu li {
+    float:left;
+    margin:0;
+    padding:0 0 0 9px;
+    background: url(../images/norm_left.gif) no-repeat left top;
+    }
+#menu a {
+    /* Pour IE Mac uniquement \*//*/
+    float:left;
+    /**/
+    display:block;
+    background:url("../images/norm_right.gif") no-repeat right top;
+    padding:5px 15px 4px 6px;
+    }
+ #menu #current {
+    background-image:url("../images/norm_left_on.gif");
+    }
+ #menu #current a {
+    background-image:url("../images/norm_right_on.gif");
+    padding-bottom:5px;
+    }
+
+div#content {
+  background: #FFFAAA ;
+  color:#000;
+  float: left;
+  width: 570px;
+  padding: 1em;
+  border-right: thin dashed black;
+ }
+div#action {
+  float: right;
+  width: 140px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+
+div#container {
+  background: #DAE0D2;
+  border: 1px solid black;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+div#footer {
+  background: #4F4F4F;
+  color: #FFF;
+  border: 2px solid black;
+  padding: 1em;
+  position: absolute;
+  width: 720px;
+  bottom: 0;
+
+}
+
+h1 {
+  padding: 1em;
+  border: 1px solid black;
+  font-size: x-large;
+  font-weight: bold;
+  color: #FFF;
+  background: #1F1F1F;
+}
+
+h2 {
+  padding: 0.5em 1em 0.5em 1em;
+  border: 1px solid black;
+  font-size: large;
+  font-weight: bold;
+  color: #FFF;
+  background: #2F2F2F;
+}
+
+h3, h4, h5, h6 {
+  padding: 0.2em 1em 0.2em 1em;
+  border: 1px dashed black;
+  color: #000;
+  background: #EAEAEA;
+}
+
+p {
+  padding: 0.5em;
+  margin: 0.5em;
+  border: 1px dotted black;
+  background: #EAEAEA;
+}
+
+a:link, a:active, a:visited {
+   color: #CD0000;
+}
+
+th {
+    width: 20px;
+}
+
+.bordure {
+ border-top: 2px solid black;
+ }
+
+.positif {
+    color:green;
+    font-weight:bold;
+}
+.neutre {
+    color:blue;
+    font-weight:bold;
+}
+.negatif {
+    color:red;
+    font-weight:bold;
+}

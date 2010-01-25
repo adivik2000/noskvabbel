@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;.
+charset=iso-8859-1" />
+<meta http-equiv="Content-Language" content="fr-FR" />
+<title>Noskvabbel</title>
+<%= stylesheet_link_tag "style.css" %>
+</head>
+<body>
+  <div id="header">
+    Ici on est dans le header
+  </div>
+  <div id="menu">
+    <ul><li id="current">
+    <%= link_to 'Regular screen', new_user_path %>
+    </li><li><%=link_to 'Blank screen', edit_user_path(1)%>
+    </li><li><%=link_to 'Error screen', user_path(1)%>
+  </li></ul></div>
+  <div id="container">
+    <div id="action">
+    <%= button_to "Ajout membre", :action => "add_pers" %>
+    <%= button_to "Supprimer membre", :action => "del_pers" %>
+    <%= button_to "Show", :action => "show" %>
+    </div>
+    <div id="content">
+    <%= yield -%>
+    </div>
+  </div>
+  <div id="footer">
+    Ici on est dans le footer
+  </div>
+</body>
+</html>
