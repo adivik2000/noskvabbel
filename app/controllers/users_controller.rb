@@ -1,38 +1,32 @@
 class UsersController < ApplicationController
-  # GET /users
-  # GET /users.xml
-  def index
-  end
 
-  # GET /users/1
-  # GET /users/1.xml
-  def show
-flash.now[:errors] = {:p1=>"problème"}
-  end
-
-  # GET /users/new
-  # GET /users/new.xml
   def new
+    @user = User.new
   end
 
-  # GET /users/1/edit
+  def create
+    @user = User.new(params[:user])
+    if @user.save
+      flash[:notice] = 'Enregistrement complet !'
+      redirect_to root_url
+    else
+      render :action => "new" 
+    end
+  end
+
+
   def edit
+    @user = current_user
   end
 
-  def add_pers
+  def update
+    @user = current_user
+    if @user.update_attributes(params[:user])
+      flash[:notice] = 'Mise à jour effectuée'
+      redirect_to root_url
+    else
+      render :action => "edit"
+    end
   end
 
-  def add_pers1
-  end
-
-  def del_pers
-  end
-
-  def operation
-  end
-
-  def recap
-  end
-def donner
-end
 end

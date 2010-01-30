@@ -1,15 +1,24 @@
-<h2>Blank screen</h2>
+<h1>Editing user</h1>
 
-<table width="100%" cellspacing="0">
-  <caption><h3>Les 10 dernières opérations enregistrées</h3></caption>
- <tr>
-    <th class="bordure">Indivisible</th>
-  </tr>
-    <tr>
-    <th>Solde</th>
-  </tr>
-</table>
+<% form_for(@user) do |f| %>
+  <%= f.error_messages %>
 
+  <p>
+    <%= f.label :username %><br />
+    <%= f.text_field :username %>
+  </p>
+  <p>
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </p>
+  <p>
+    <%= f.label :password %><br />
+    <%= f.text_field :password %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
 
-<br/><br/>
-<%= link_to 'Retour', users_path %>
+<%= link_to 'Show', @user %> |
+<%= link_to 'Back', users_path %>

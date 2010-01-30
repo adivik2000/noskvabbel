@@ -1,6 +1,18 @@
 <div id="identification">
-  <p align="right">Login :<input type="text"/><br/>
-  Password :<input type="password"/><br/><br/>
-  <button class="action_button">Go !</button>
-  <button class="action_button">Nouvel utilisateur</button></p>
+  <%if current_user%>
+    <p>Bienvenue <%=current_user.username%> :)<br/>
+    <%= link_to "Logout", logout_path %></p>
+  <%else%>
+  <% form_for(@user_session) do |f| %>
+  <%= f.error_messages %>
+
+  <p align="right">
+    Email <%= f.text_field :username %>
+    <br/>
+    Password <%= f.password_field :password %><br/>
+    <%= f.submit 'Go !',:class=>"action_button" %>
+<% end %>
+<%= link_to "Nouveau compte ?", {:controller=>"users", :action => :new}%>
+  </p>
+  <%end%>
 </div>

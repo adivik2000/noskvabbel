@@ -160,10 +160,7 @@ th {
     color:green;
     font-weight:bold;
 }
-.neutre {
-    color:blue;
-    font-weight:bold;
-}
+
 .negatif {
     color:red;
     font-weight:bold;
@@ -187,4 +184,10 @@ div#identification{
 input {
  border:1px solid black;
  background:white;
+}
+
+label {
+   width: 100px;
+   display: block;
+   float: left;
 }
