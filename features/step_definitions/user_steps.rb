@@ -17,3 +17,11 @@ Given /^I am logged in as (.+)$/ do |username|
   fill_in "user_session[password]", :with => "tagada"
   click_button "Go !"
 end
+
+Given /^I'm not logged in$/ do
+  visit "/logout"
+end
+
+Given /^there is no (.+)$/ do |username|
+  User.delete_all("username='#{username}'")
+end

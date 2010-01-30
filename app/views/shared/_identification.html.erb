@@ -1,7 +1,7 @@
 <div id="identification">
   <%if current_user%>
     <p>Bienvenue <%=current_user.username%> :)<br/>
-    <%= link_to "Logout", logout_path %></p>
+    <%= link_to "My account", edit_user_path(current_user) %> <%= link_to "Logout", logout_path %></p>
   <%else%>
   <% form_for(@user_session) do |f| %>
   <%= f.error_messages %>
@@ -12,7 +12,7 @@
     Password <%= f.password_field :password %><br/>
     <%= f.submit 'Go !',:class=>"action_button" %>
 <% end %>
-<%= link_to "Nouveau compte ?", {:controller=>"users", :action => :new}%>
+<%= link_to "Sign up ?", {:controller=>"users", :action => :new}%>
   </p>
   <%end%>
 </div>
