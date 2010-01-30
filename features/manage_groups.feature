@@ -4,8 +4,8 @@ Feature: Manage Groups
   I want to create and manage groups
   
   Scenario: Groups List
-		#Given I am authenticated
-    Given I belong to groups named "Stephan's birthday", "My life with Laetitia"
+		Given I am logged in as zifro
+    And I belong to groups named "Stephan's birthday", "My life with Laetitia"
     When I go to the list of groups
     Then I should see "Stephan's birthday"
     And I should see "My life with Laetitia"
