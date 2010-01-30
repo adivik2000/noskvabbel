@@ -1,15 +1,34 @@
 
 body {
   font-family: Verdana, sans-serif;
-  background: #BBBAAA;
-  color: #FFF;
+  color: #FFFECC;
   margin: 0 auto;
   font-size: small;
   text-align: justify;
   height: 100%;
-  position: relative;
-  width: 750px;
+  width: 100%
 }
+div#commando {
+  position:absolute;
+  top: 0px;
+  left: 12.5%;
+    width: 75%;
+  z-index:10;
+}
+div#errorLayer {
+    background-color:red;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index:1;
+    position: absolute;
+}
+.bg {
+    background-color: yellow;
+    background-image: url("../images/fond_1.jpg");
+}
+
 
 div#header {
   background: #4F4F4F;
@@ -19,8 +38,10 @@ div#header {
 }
 div#menu {
     float:left;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
     width:100%;
-    background:#DAE0D2 url("../images/bg.gif")repeat-x bottom;
+    background:white;
     font-size:93%;
     line-height:normal;
 }
@@ -36,9 +57,6 @@ div#menu {
     background: url(../images/norm_left.gif) no-repeat left top;
     }
 #menu a {
-    /* Pour IE Mac uniquement \*//*/
-    float:left;
-    /**/
     display:block;
     background:url("../images/norm_right.gif") no-repeat right top;
     padding:5px 15px 4px 6px;
@@ -52,25 +70,27 @@ div#menu {
     }
 
 div#content {
-  background: #FFFAAA ;
+  background:#fffecc;
   color:#000;
   float: left;
-  width: 570px;
+  width: 80%;
   padding: 1em;
   border-right: thin dashed black;
- }
+     background-color: #fffecc;
+}
 div#action {
   float: right;
-  width: 140px;
-  margin-bottom: 3px;
-  margin-top: 3px;
+  width: 15%;
+  margin-bottom: 5px;
+  margin-top: 5px;
 }
 
 div#container {
-  background: #DAE0D2;
+  background: #FFFECC;
   border: 1px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
   overflow: auto;
-  padding-bottom: 50px;
 }
 
 div#footer {
@@ -78,13 +98,21 @@ div#footer {
   color: #FFF;
   border: 2px solid black;
   padding: 1em;
-  position: absolute;
-  width: 720px;
-  bottom: 0;
+  margin-bottom: 0;
 
 }
 
+quote {
+    color: #FFFECC;
+    font: italic 150%/50% "century gothic", sans-serif;
+}
+
 h1 {
+    font: bold 330%/100% "Lucida Grande",sans-serif;
+    color: #FFFECC;
+}
+
+h2 {
   padding: 1em;
   border: 1px solid black;
   font-size: x-large;
@@ -93,7 +121,7 @@ h1 {
   background: #1F1F1F;
 }
 
-h2 {
+h3 {
   padding: 0.5em 1em 0.5em 1em;
   border: 1px solid black;
   font-size: large;
@@ -102,7 +130,7 @@ h2 {
   background: #2F2F2F;
 }
 
-h3, h4, h5, h6 {
+h4, h5, h6 {
   padding: 0.2em 1em 0.2em 1em;
   border: 1px dashed black;
   color: #000;
@@ -113,7 +141,7 @@ p {
   padding: 0.5em;
   margin: 0.5em;
   border: 1px dotted black;
-  background: #EAEAEA;
+  background: #FFFECC;
 }
 
 a:link, a:active, a:visited {
@@ -139,4 +167,24 @@ th {
 .negatif {
     color:red;
     font-weight:bold;
+}
+
+.action_button{
+     border:none;
+     color:#FFFECC;
+     background: transparent url('../images/button_bg.png') 100%;
+     margin-top: 2px;
+     margin-bottom: 2px;
+}
+
+div#identification{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color:black;
+}
+
+input {
+ border:1px solid black;
+ background:white;
 }

@@ -3562,3 +3562,4119 @@ Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 22:32:47) [GET]
 Rendering template within layouts/application
 Rendering users/edit
 Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:03:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:04:04) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:04:10) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:04:31) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:04:39) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:04:49) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:04:58) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:05:33) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:05:40) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:05:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-25 23:06:01) [POST]
+  Parameters: {"authenticity_token"=>"i2Q53rxCJlO6nyKqMJGjk829CLe6LUxl37bcM9FZCF8="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:08:07) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:08:19) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:08:35) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:08:41) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:08:46) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:08:52) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:10:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-25 23:10:13) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-25 23:10:13) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:10:14) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:12:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:12:21) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:12:50) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:13:29) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:14:10) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:14:44) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-25 23:15:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-29 07:24:04) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 4204ms (View: 4201, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:24:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 50ms (View: 45, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:26:51) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 100ms (View: 97, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:28:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:28:44) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 22ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:28:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:29:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:29:49) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:30:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:30:27) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:30:44) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:31:38) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:31:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:31:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:32:03) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:32:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:32:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:32:39) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:33:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:33:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:34:08) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:34:40) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:35:11) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 61ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 07:35:41) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 07:35:44) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-29 07:35:47) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-29 07:36:06) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-29 07:36:22) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 24ms (View: 21, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 07:37:51) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-29 07:37:54) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 119ms (View: 116, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:37:56) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 44ms (View: 41, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-29 07:38:38) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:38:51) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:39:38) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:39:49) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:42:24) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:44:36) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:44:58) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 31ms (View: 28, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-29 07:46:22) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 07:46:25) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-29 07:46:53) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 07:47:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 21ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 07:54:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 07:54:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 107ms (View: 104, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 07:54:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 31ms (View: 28, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:14:06) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 202ms (View: 197, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:14:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 36ms (View: 31, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:15:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 31ms (View: 27, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:15:57) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 18:16:03) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 36ms (View: 31, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 18:16:04) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 40ms (View: 38, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:16:06) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:26:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 93ms (View: 91, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:26:41) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:29:08) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 35ms (View: 33, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-01-29 18:29:09) [GET]
+
+ActionController::RoutingError (No route matches "/images/fond1.jpg" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 18:29:19) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-01-29 18:29:20) [GET]
+
+ActionController::RoutingError (No route matches "/images/fond1.jpg" with {:method=>:get}):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 18:32:16) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:32:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 96ms (View: 93, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:40:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:40:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:41:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:41:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 21ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:42:08) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 92ms (View: 88, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:43:05) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:43:08) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:44:25) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:44:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 24ms (View: 21, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:44:48) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:48:04) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 96ms (View: 94, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:48:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 18:48:30) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:48:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 18:50:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:51:11) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:51:18) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:52:04) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 30ms (View: 28, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 18:52:12) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 18:53:42) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 18:53:51) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 18:53:55) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 19:08:49) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 19:08:52) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 19:11:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 19:11:19) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 19:56:52) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 20:02:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:02:22) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:02:26) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:02:52) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 28ms (View: 24, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:03:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 30ms (View: 25, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:03:35) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:05:30) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:06:25) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:06:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 118ms (View: 114, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:07:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:08:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:12:06) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:12:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:13:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:16:26) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:16:49) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:18:05) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:18:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:19:43) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 20:21:08) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:23:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 21ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:25:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 20ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:25:43) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:29:59) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 21ms (View: 19, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 20:33:02) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:36:01) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 21ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:36:54) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:42:05) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:46:39) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:46:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:47:50) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:48:05) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:48:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:49:09) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:49:35) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:49:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 20:51:12) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:51:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 20:51:24) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 20:51:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:51:43) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 20:52:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:52:22) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 20:52:42) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:52:43) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:52:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:53:11) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:55:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:56:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:59:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 20:59:57) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:00:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:01:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:01:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:07:14) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:07:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:09:23) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:09:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:19:09) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:20:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:21:22) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:24:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:24:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:27:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:28:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 21:29:22) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:29:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 21:29:38) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:29:40) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:29:51) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 21:30:22) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:30:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-29 21:30:48) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:30:50) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:53:54) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:57:26) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:57:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 21:58:28) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:01:01) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:01:18) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:01:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:02:14) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:02:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:05:08) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:07:27) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:09:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 22:09:33) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:09:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:09:59) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-29 22:10:41) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-29 22:10:52) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 06:51:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 182ms (View: 180, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 06:51:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 06:52:31) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 06:52:44) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 06:55:26) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 57ms (View: 55, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 06:55:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 06:59:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 37ms (View: 35, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 06:59:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:04:17) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 23ms (View: 20, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:04:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:04:28) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 07:05:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:05:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:07:40) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 07:10:18) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:10:21) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:10:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 24ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:10:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:11:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:13:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:14:04) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:15:08) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:16:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#images to jpg (for 127.0.0.1 at 2010-01-30 07:16:08) [GET]
+  Parameters: {"id"=>"fond_1"}
+
+ActionController::UnknownAction (No action responded to images. Actions: add_pers, del_pers, edit, index, new, and show):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:19:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#images to jpg (for 127.0.0.1 at 2010-01-30 07:19:46) [GET]
+  Parameters: {"id"=>"fond_1"}
+
+ActionController::UnknownAction (No action responded to images. Actions: add_pers, del_pers, edit, index, new, and show):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:20:30) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#images to jpg (for 127.0.0.1 at 2010-01-30 07:20:31) [GET]
+  Parameters: {"id"=>"fond_1"}
+
+ActionController::UnknownAction (No action responded to images. Actions: add_pers, del_pers, edit, index, new, and show):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:27:57) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:28:03) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:28:43) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 89ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:29:13) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:29:48) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:29:52) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:32:28) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:32:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:32:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:33:27) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:33:40) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:33:52) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:35:57) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:35:59) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:36:09) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:36:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 07:42:14) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:42:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:44:31) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:44:35) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:45:03) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 31ms (View: 27, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:46:18) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 123ms (View: 121, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:46:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:46:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:47:10) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 07:47:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:47:17) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 07:51:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 29ms (View: 26, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:51:19) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:53:28) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:54:39) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:55:16) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:56:21) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 118ms (View: 115, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:56:47) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 32ms (View: 28, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 07:58:00) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:00:58) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 29ms (View: 25, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:01:36) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:02:14) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 96ms (View: 93, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:03:04) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:04:45) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:05:14) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 30ms (View: 28, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:05:31) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:07:07) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:09:47) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:11:52) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:12:39) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:12:42) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:12:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 27ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:12:54) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:13:27) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:13:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:13:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:13:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:14:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:14:38) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:14:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:14:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:16:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:17:46) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:17:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:17:48) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:18:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 20ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:18:49) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:18:51) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:18:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:19:33) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:20:13) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:20:27) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:20:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:20:39) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:20:57) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:21:22) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:21:57) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:22:17) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:22:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:23:38) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:23:59) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 122ms (View: 120, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:24:05) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:25:23) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 36ms (View: 33, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:28:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (1.0ms)
+Completed in 52ms (View: 49, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:28:42) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_error_color (0.0ms)
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:28:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_error_color (0.0ms)
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:28:49) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:29:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:29:22) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_error_color (0.0ms)
+Completed in 22ms (View: 18, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:31:06) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 29ms (View: 27, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:31:10) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_error_color (0.0ms)
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:31:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:31:35) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_error_color (0.0ms)
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:32:36) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 28ms (View: 25, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:32:40) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:33:30) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 25ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:33:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:33:35) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:33:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 19ms (View: 12, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:33:58) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+
+ActionView::TemplateError (undefined method `keys' for "problème":String) on line #13 of app/views/layouts/application.html.erb:
+10: <%= javascript_include_tag :all %>
+11: </head>
+12: <body class="bg">
+13: <%if flash[:errors] && flash[:errors].keys.size > 0%>
+14: <%= render :partial=>'shared/error_color' %>
+15: <%end%>
+16: <div id="commando">
+
+    app/views/layouts/application.html.erb:13
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (213.0ms)
+Rendered rescues/_request_and_response (29.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:35:09) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (3.0ms)
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:35:18) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_error_color (0.0ms)
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:35:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 168ms (View: 156, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:35:26) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:35:28) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:35:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:35:35) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_error_color (0.0ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:35:58) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 105ms (View: 102, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:36:02) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 23ms (View: 19, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:36:07) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:36:30) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 28ms (View: 19, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:36:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:36:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 24ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:37:12) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 17ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-30 08:37:16) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 29ms (View: 27, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 08:37:19) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 50ms (View: 47, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 08:37:23) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/show]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 08:37:31) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:44:18) [GET]
+Rendering template within layouts/application
+Rendering users/new
+
+ActionView::TemplateError (uninitialized constant ActionView::Base::CompiledTemplates::APPNAME) on line #18 of app/views/layouts/application.html.erb:
+15: <%end%>
+16: <div id="commando">
+17:   <div id="header">
+18:     <%=APPNAME%>
+19:   </div>
+20:   <div id="menu">
+21:     <ul><li id="current">
+
+    app/views/layouts/application.html.erb:18
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (166.0ms)
+Rendered rescues/_request_and_response (3.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:45:18) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 30ms (View: 26, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:46:30) [GET]
+Rendering template within layouts/application
+Rendering users/new
+
+ActionView::TemplateError (uninitialized constant ActionView::Base::CompiledTemplates::TAG_LINE) on line #19 of app/views/layouts/application.html.erb:
+16: <div id="commando">
+17:   <div id="header">
+18:     <%=APP_NAME%>
+19:     <%=TAG_LINE%>
+20:   </div>
+21:   <div id="menu">
+22:     <ul><li id="current">
+
+    app/views/layouts/application.html.erb:19
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (76.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:46:52) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 104ms (View: 101, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:47:40) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 32ms (View: 29, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:48:36) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 35ms (View: 31, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-30 08:50:08) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 28ms (View: 25, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-30 08:50:17) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:52:31) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 31ms (View: 28, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#index (for 127.0.0.1 at 2010-01-30 08:52:35) [GET]
+Rendering template within layouts/application
+Rendering users/index
+Completed in 18ms (View: 13, DB: 0) | 200 OK [http://localhost/users]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 08:59:20) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 24ms (View: 21, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 08:59:22) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:01:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 09:01:50) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:02:45) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 107ms (View: 105, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:15:32) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 339ms (View: 337, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:43:46) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 100ms (View: 97, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:46:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:48:33) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:48:55) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 09:49:09) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:00:54) [GET]
+Rendering template within layouts/application
+Rendering users/new
+ERROR: compiling _run_erb_app47views47layouts47application46html46erb RAISED compile error
+C:/Users/Laetitia/Documents/NetBeansProjects/noskvabbel/app/views/layouts/application.html.erb:29: syntax error, unexpected ')', expecting tASSOC
+@output_buffer.concat "    "; @output_buffer.concat(( button_to "Ajout membre", :action => "add_pers",{:class=>"action_button"}).to_s); @output_buffer.concat "\n"
+                                                                                                                                ^
+Function body:           def _run_erb_app47views47layouts47application46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n"
+@output_buffer.concat "\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n"
+@output_buffer.concat "<html xmlns=\"http://www.w3.org/1999/xhtml\">\n"
+@output_buffer.concat "<head>\n"
+@output_buffer.concat "<meta http-equiv=\"Content-Type\" content=\"text/html;.\n"
+@output_buffer.concat "charset=iso-8859-1\" />\n"
+@output_buffer.concat "<meta http-equiv=\"Content-Language\" content=\"fr-FR\" />\n"
+@output_buffer.concat "<title>Noskvabbel</title>\n"
+@output_buffer.concat(( stylesheet_link_tag "style.css" ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( javascript_include_tag :all ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</head>\n"
+@output_buffer.concat "<body class=\"bg\">\n"
+if flash[:errors] && flash[:errors].keys.size > 0; @output_buffer.concat "\n"
+@output_buffer.concat(( render :partial=>'shared/error_color' ).to_s); @output_buffer.concat "\n"
+end; @output_buffer.concat "\n"
+@output_buffer.concat "<div id=\"commando\">\n"
+@output_buffer.concat "  <div id=\"header\">\n"
+@output_buffer.concat "    <h1>"; @output_buffer.concat((APP_NAME).to_s); @output_buffer.concat "</h1><br/>\n"
+@output_buffer.concat "    <quote>"; @output_buffer.concat((TAG_LINE).to_s); @output_buffer.concat "</quote>\n"
+@output_buffer.concat "  </div>\n"
+@output_buffer.concat "  <div id=\"menu\">\n"
+@output_buffer.concat "    <ul><li id=\"current\">\n"
+@output_buffer.concat "    "; @output_buffer.concat(( link_to 'Regular screen', new_user_path ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    </li><li>"; @output_buffer.concat((link_to 'Blank screen', edit_user_path(1)).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    </li><li>"; @output_buffer.concat((link_to 'Error screen', user_path(1)).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "  </li></ul></div>\n"
+@output_buffer.concat "  <div id=\"container\">\n"
+@output_buffer.concat "    <div id=\"action\">\n"
+@output_buffer.concat "    "; @output_buffer.concat(( button_to "Ajout membre", :action => "add_pers",{:class=>"action_button"}).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( button_to "Supprimer membre", :action => "del_pers" ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    "; @output_buffer.concat(( button_to "Show", :action => "show" ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "    </div>\n"
+@output_buffer.concat "    <div id=\"content\">\n"
+@output_buffer.concat "    "; @output_buffer.concat(( yield ).to_s)
+@output_buffer.concat "    </div>\n"
+@output_buffer.concat "  </div>\n"
+@output_buffer.concat "  <div id=\"footer\">\n"
+@output_buffer.concat "    Ici on est dans le footer\n"
+@output_buffer.concat "  </div>\n"
+@output_buffer.concat "  </div>\n"
+@output_buffer.concat "</body>\n"
+@output_buffer.concat "</html>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: C:/Users/Laetitia/Documents/NetBeansProjects/noskvabbel/app/views/layouts/application.html.erb:46:in `compile!'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:61:in `compile'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/renderable.rb:28:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/template.rb:205:in `render_template'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:265:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:352:in `_render_with_layout'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_view/base.rb:262:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1250:in `render_for_file'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:945:in `render_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:51:in `render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1326:in `default_render'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:617:in `call_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+c:/ruby/lib/ruby/gems/1.8/gems/activesupport-2.3.5/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/flash.rb:146:in `perform_action'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `send'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:532:in `process_without_filters'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/filters.rb:606:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:391:in `process'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/base.rb:386:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/routing/route_set.rb:437:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:87:in `dispatch'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:121:in `_call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:29:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:9:in `cache'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/query_cache.rb:28:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/activerecord-2.3.5/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/string_coercion.rb:25:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/head.rb:9:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/methodoverride.rb:24:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/params_parser.rb:15:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/session/cookie_store.rb:93:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/failsafe.rb:26:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `synchronize'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/lock.rb:11:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:114:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/reloader.rb:34:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/actionpack-2.3.5/lib/action_controller/dispatcher.rb:108:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/static.rb:31:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:46:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `each'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/urlmap.rb:40:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/rails/rack/log_tailer.rb:17:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/content_length.rb:13:in `call'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:50:in `service'
+c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+c:/ruby/lib/ruby/gems/1.8/gems/rack-1.0.1/lib/rack/handler/webrick.rb:14:in `run'
+c:/ruby/lib/ruby/gems/1.8/gems/rails-2.3.5/lib/commands/server.rb:111
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+c:/ruby/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+C:/Users/Laetitia/Documents/NetBeansProjects/noskvabbel/app/views/layouts/application.html.erb:29: syntax error, unexpected ')', expecting tASSOC
+@output_buffer.concat "    "; @output_buffer.concat(( button_to "Ajout membre", :action => "add_pers",{:class=>"action_button"}).to_s); @output_buffer.concat "\n"
+                                                                                                                                ^) on line #29 of app/views/layouts/application.html.erb:
+26:   </li></ul></div>
+27:   <div id="container">
+28:     <div id="action">
+29:     <%= button_to "Ajout membre", :action => "add_pers",{:class=>"action_button"}%>
+30:     <%= button_to "Supprimer membre", :action => "del_pers" %>
+31:     <%= button_to "Show", :action => "show" %>
+32:     </div>
+
+    app/views/layouts/application.html.erb:46:in `compile!'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (134.0ms)
+Rendered rescues/_request_and_response (3.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:01:43) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 30ms (View: 27, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:02:23) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:02:51) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 42ms (View: 38, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:02:53) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 25ms (View: 22, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-30 10:02:57) [POST]
+  Parameters: {"html"=>{"class"=>"action_button"}, "authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 43ms (View: 38, DB: 0) | 200 OK [http://localhost/users/add_pers?html%5Bclass%5D=action_button]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 10:02:59) [POST]
+  Parameters: {"html"=>{"class"=>"action_button"}, "authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Completed in 141ms (View: 137, DB: 0) | 200 OK [http://localhost/users/del_pers?html%5Bclass%5D=action_button]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-30 10:04:40) [POST]
+  Parameters: {"html"=>{"class"=>"action_button"}, "authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Completed in 36ms (View: 32, DB: 0) | 200 OK [http://localhost/users/add_pers?html%5Bclass%5D=action_button]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:04:43) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:07:39) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 34ms (View: 31, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:07:58) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 38ms (View: 34, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:08:34) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 34ms (View: 32, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:13:51) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 10:13:54) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 10:13:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (3.0ms)
+Completed in 43ms (View: 40, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 10:14:12) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:14:15) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 10:14:16) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:14:21) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:15:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 15ms (View: 11, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:15:17) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:15:28) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:15:56) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:16:33) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 10:16:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Completed in 28ms (View: 24, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 10:16:48) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 10:18:01) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 26ms (View: 24, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 10:19:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:24:13) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:24:37) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:25:12) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:26:34) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:26:47) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:27:05) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 10:27:38) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:11:46) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:12:20) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:14:03) [GET]
+Rendering template within layouts/application
+Rendering users/new
+
+ActionView::TemplateError (uninitialized constant ActionView::Base::CompiledTemplates::APP_VERSION) on line #38 of app/views/layouts/application.html.erb:
+35:     </div>
+36:   </div>
+37:   <div id="footer">
+38:     <%=APP_VERSION %>
+39:   </div>
+40:   </div>
+41: </body>
+
+    app/views/layouts/application.html.erb:38
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (71.0ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:26:20) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Completed in 124ms (View: 121, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:34:40) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (1.0ms)
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:35:07) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (3.0ms)
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:36:39) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:36:55) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:37:36) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:39:00) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (3.0ms)
+Completed in 95ms (View: 93, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:39:15) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:40:43) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 26ms (View: 23, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:41:16) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:43:44) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (1.0ms)
+Completed in 20ms (View: 18, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:44:25) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:51:18) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (3.0ms)
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:51:29) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (80.0ms)
+Completed in 114ms (View: 111, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:52:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (3.0ms)
+Completed in 25ms (View: 22, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:53:03) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:54:06) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 15ms (View: 12, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:54:46) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 23ms (View: 21, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:55:13) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (3.0ms)
+Completed in 28ms (View: 25, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 11:55:25) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 11:55:42) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (2.0ms)
+Rendered shared/_identification (0.0ms)
+Completed in 111ms (View: 107, DB: 0) | 200 OK [http://localhost/users/show]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 11:55:47) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (1.0ms)
+Completed in 33ms (View: 30, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 12:24:46) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (1.0ms)
+Rendered shared/_identification (0.0ms)
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 12:24:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 12:24:56) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Rendered shared/_identification (0.0ms)
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 12:25:02) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (0.0ms)
+Rendered shared/_identification (0.0ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 12:54:39) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:01:44) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 109ms (View: 107, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:03:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 28ms (View: 26, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:14:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 23ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:16:31) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 29ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:17:30) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 33ms (View: 29, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:18:36) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 27ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:19:26) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:20:00) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 22ms (View: 18, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:20:29) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 30ms (View: 26, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:21:25) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 24ms (View: 20, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:23:26) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 23ms (View: 19, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:26:38) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 25ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:27:41) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 26ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:28:13) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 32ms (View: 25, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:28:55) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 29ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:29:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 30ms (View: 23, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:29:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 28ms (View: 24, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:32:42) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 52ms (View: 48, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:33:27) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (6.0ms)
+Completed in 37ms (View: 34, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:33:45) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (5.0ms)
+Completed in 41ms (View: 35, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:33:54) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (5.0ms)
+Completed in 42ms (View: 38, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:34:04) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (4.0ms)
+Completed in 310ms (View: 304, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:34:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 27ms (View: 22, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 13:36:06) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (2.0ms)
+Completed in 35ms (View: 32, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:52:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (2.0ms)
+Completed in 170ms (View: 168, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:53:18) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 23ms (View: 20, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:53:38) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (6.0ms)
+Completed in 32ms (View: 29, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:54:22) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 16ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:54:34) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:55:53) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:56:21) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (4.0ms)
+Completed in 98ms (View: 95, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:58:24) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 15:59:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 30ms (View: 28, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 16:01:19) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 16:01:41) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 16:03:47) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (3.0ms)
+Completed in 31ms (View: 29, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 16:04:15) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (2.0ms)
+Completed in 30ms (View: 26, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:04:29) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 38ms (View: 34, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 16:04:31) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#show (for 127.0.0.1 at 2010-01-30 16:04:32) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/show
+Rendered shared/_error_color (7.0ms)
+Rendered shared/_identification (1.0ms)
+Completed in 124ms (View: 120, DB: 0) | 200 OK [http://localhost/users/1]
+
+
+Processing UsersController#edit (for 127.0.0.1 at 2010-01-30 16:04:37) [GET]
+  Parameters: {"id"=>"1"}
+Rendering template within layouts/application
+Rendering users/edit
+Rendered shared/_identification (1.0ms)
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/1/edit]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:04:38) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 23ms (View: 19, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:04:41) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 42ms (View: 38, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:06:07) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 30ms (View: 27, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:07:02) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 30ms (View: 28, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:07:16) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 14, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-30 16:07:19) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Rendered shared/_identification (0.0ms)
+Completed in 35ms (View: 32, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:07:21) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-01-30 16:09:08) [GET]
+
+SyntaxError (C:/Users/Laetitia/Documents/NetBeansProjects/noskvabbel/app/controllers/users_controller.rb:32: syntax error, unexpected kEND, expecting $end):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (134.0ms)
+Rendered rescues/_request_and_response (4.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:09:31) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 39ms (View: 36, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:10:02) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 113ms (View: 108, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:10:05) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (1.0ms)
+Completed in 26ms (View: 22, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:10:21) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 109ms (View: 107, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:10:23) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (1.0ms)
+Completed in 18ms (View: 14, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:10:36) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 20ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:13:52) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:13:56) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 28ms (View: 24, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:13:57) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:16:12) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 25ms (View: 21, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:16:31) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (1.0ms)
+Completed in 26ms (View: 23, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:16:46) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 29ms (View: 25, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:17:03) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (1.0ms)
+Completed in 29ms (View: 26, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:17:14) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 29ms (View: 25, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:17:41) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (1.0ms)
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:17:52) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 26ms (View: 22, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:18:01) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 97ms (View: 92, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:18:17) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 32ms (View: 28, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:19:26) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (2.0ms)
+Completed in 23ms (View: 20, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:20:57) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 25ms (View: 22, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:21:58) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (2.0ms)
+Completed in 26ms (View: 21, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-30 16:22:34) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Rendered shared/_identification (0.0ms)
+Completed in 20ms (View: 17, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-01-30 16:26:22) [GET]
+
+SyntaxError (C:/Users/Laetitia/Documents/NetBeansProjects/noskvabbel/app/controllers/users_controller.rb:35: syntax error, unexpected kEND, expecting $end):
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  c:/ruby/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  c:/ruby/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (132.0ms)
+Rendered rescues/_request_and_response (0.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:26:39) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (1.0ms)
+Completed in 41ms (View: 38, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#recap (for 127.0.0.1 at 2010-01-30 16:26:47) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/recap
+Rendered shared/_identification (0.0ms)
+Completed in 31ms (View: 27, DB: 0) | 200 OK [http://localhost/users/recap]
+
+
+Processing UsersController#recap (for 127.0.0.1 at 2010-01-30 16:27:07) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/recap
+Rendered shared/_identification (0.0ms)
+Completed in 37ms (View: 33, DB: 0) | 200 OK [http://localhost/users/recap]
+
+
+Processing UsersController#recap (for 127.0.0.1 at 2010-01-30 16:28:05) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/recap
+Rendered shared/_identification (0.0ms)
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/users/recap]
+
+
+Processing UsersController#recap (for 127.0.0.1 at 2010-01-30 16:29:53) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/recap
+Rendered shared/_identification (0.0ms)
+Completed in 33ms (View: 30, DB: 0) | 200 OK [http://localhost/users/recap]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:30:17) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (1.0ms)
+Completed in 22ms (View: 20, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:31:05) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:32:56) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#add_pers1 (for 127.0.0.1 at 2010-01-30 16:32:58) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers1
+Rendered shared/_identification (0.0ms)
+Completed in 29ms (View: 25, DB: 0) | 200 OK [http://localhost/users/add_pers1]
+
+
+Processing UsersController#add_pers1 (for 127.0.0.1 at 2010-01-30 16:33:12) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers1
+Rendered shared/_identification (1.0ms)
+Completed in 33ms (View: 29, DB: 0) | 200 OK [http://localhost/users/add_pers1]
+
+
+Processing UsersController#recap (for 127.0.0.1 at 2010-01-30 16:34:40) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/recap
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/users/recap]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:35:04) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#recap (for 127.0.0.1 at 2010-01-30 16:35:33) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/recap
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/recap]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:35:44) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 18ms (View: 16, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#add_pers1 (for 127.0.0.1 at 2010-01-30 16:36:06) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers1
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/users/add_pers1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:36:25) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 17, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#add_pers (for 127.0.0.1 at 2010-01-30 16:36:27) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/add_pers]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:36:59) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:37:06) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 19ms (View: 15, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#del_pers (for 127.0.0.1 at 2010-01-30 16:37:23) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/del_pers
+Rendered shared/_identification (0.0ms)
+Completed in 17ms (View: 14, DB: 0) | 200 OK [http://localhost/users/del_pers]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:39:24) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 26ms (View: 23, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:40:28) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 119ms (View: 116, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:40:38) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 26ms (View: 22, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:41:04) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 29ms (View: 26, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#add_pers1 (for 127.0.0.1 at 2010-01-30 16:41:29) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers1
+Rendered shared/_identification (0.0ms)
+Completed in 21ms (View: 17, DB: 0) | 200 OK [http://localhost/users/add_pers1]
+
+
+Processing UsersController#add_pers1 (for 127.0.0.1 at 2010-01-30 16:41:50) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/add_pers1
+Rendered shared/_identification (0.0ms)
+Completed in 33ms (View: 30, DB: 0) | 200 OK [http://localhost/users/add_pers1]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:43:31) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (1.0ms)
+Completed in 28ms (View: 24, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 16:43:39) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 18ms (View: 15, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:44:05) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 32ms (View: 28, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:44:17) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (2.0ms)
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#new (for 127.0.0.1 at 2010-01-30 16:58:51) [GET]
+Rendering template within layouts/application
+Rendering users/new
+Rendered shared/_identification (12.0ms)
+Completed in 412ms (View: 410, DB: 0) | 200 OK [http://localhost/users/new]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 17:00:34) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 33ms (View: 31, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 17:05:00) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 43ms (View: 38, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 17:05:12) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 30ms (View: 27, DB: 0) | 200 OK [http://localhost/users/operation]
+
+
+Processing UsersController#operation (for 127.0.0.1 at 2010-01-30 17:05:24) [POST]
+  Parameters: {"authenticity_token"=>"okqp4l9oQ2QKqvRyqBK3ySAoJ4HG7X+1/qpQmHLm9O0="}
+Rendering template within layouts/application
+Rendering users/operation
+Rendered shared/_identification (0.0ms)
+Completed in 27ms (View: 24, DB: 0) | 200 OK [http://localhost/users/operation]

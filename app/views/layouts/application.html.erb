@@ -7,29 +7,42 @@ charset=iso-8859-1" />
 <meta http-equiv="Content-Language" content="fr-FR" />
 <title>Noskvabbel</title>
 <%= stylesheet_link_tag "style.css" %>
+<%= javascript_include_tag :all %>
 </head>
-<body>
+<body class="bg">
+<%if flash[:errors] && flash[:errors].keys.size > 0%>
+<%= render :partial=>'shared/error_color' %>
+<%end%>
+<div id="commando">
   <div id="header">
-    Ici on est dans le header
+    <h1><%=APP_NAME%></h1><br/>
+    <quote><%=TAG_LINE%></quote>
+      <%=render :partial=>'shared/identification'%>
   </div>
   <div id="menu">
     <ul><li id="current">
     <%= link_to 'Regular screen', new_user_path %>
     </li><li><%=link_to 'Blank screen', edit_user_path(1)%>
     </li><li><%=link_to 'Error screen', user_path(1)%>
-  </li></ul></div>
+  </li></ul>
+  </div>
   <div id="container">
     <div id="action">
-    <%= button_to "Ajout membre", :action => "add_pers" %>
-    <%= button_to "Supprimer membre", :action => "del_pers" %>
-    <%= button_to "Show", :action => "show" %>
+    <%= button_to "(VU)Ajout membre", {:action => "add_pers"},:class=>"action_button"%>
+    <%= button_to "(VU)Suppr membre", {:action => "del_pers"},:class=>"action_button" %>
+    <%= button_to "Nouvel Opération", {:action => "operation"},:class=>"action_button" %>
+    <%=button_to "Récapitulatif", {:action => "recap"},:class=>"action_button"%>
+    <%= button_to "Ajout membre", {:action => "add_pers1"},:class=>"action_button"%>
     </div>
     <div id="content">
     <%= yield -%>
     </div>
   </div>
   <div id="footer">
-    Ici on est dans le footer
+    <%=APP_VERSION %><br />
+    <a href="http://localhost:3000">A propos</a>
+    <a href="http://localhost:3000">Informations légales</a>
+  </div>
   </div>
 </body>
 </html>

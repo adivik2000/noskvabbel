@@ -7,7 +7,7 @@ class UsersController < ApplicationController
   # GET /users/1
   # GET /users/1.xml
   def show
-
+flash.now[:errors] = {:p1=>"problème"}
   end
 
   # GET /users/new
@@ -22,7 +22,17 @@ class UsersController < ApplicationController
   def add_pers
   end
 
+  def add_pers1
+  end
+
   def del_pers
   end
 
+  def operation
+  end
+
+  def recap
+  end
+def donner
+end
 end
