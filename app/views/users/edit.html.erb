@@ -1,24 +1,16 @@
-<h1>Editing user</h1>
+<h3>Edit my profile</h3>
 
 <% form_for(@user) do |f| %>
   <%= f.error_messages %>
 
-  <p>
-    <%= f.label :username %><br />
-    <%= f.text_field :username %>
-  </p>
-  <p>
-    <%= f.label :email %><br />
-    <%= f.text_field :email %>
-  </p>
-  <p>
-    <%= f.label :password %><br />
-    <%= f.text_field :password %>
-  </p>
-  <p>
-    <%= f.submit 'Update' %>
-  </p>
+  <%= f.label :username %> <%= f.text_field :username %>
+  <br/>
+    <%= f.label :email %> <%= f.text_field :email %>
+  <br/>
+    <%= f.label :password %> <%= f.text_field :password %>
+  <br/>
+    <%= f.submit 'Save', :class=>"action_button" %> <%= link_to "Annuler", root_path%>
 <% end %>
 
-<%= link_to 'Show', @user %> |
-<%= link_to 'Back', users_path %>
+<h3>Delete my profile</h3>
+<%= link_to 'Delete my account', current_user, :confirm => 'Are you sure?', :method => :delete %>

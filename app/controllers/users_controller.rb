@@ -29,4 +29,10 @@ class UsersController < ApplicationController
     end
   end
 
+  def destroy
+      current_user.destroy
+      flash[:notice] = 'Compte supprimé avec succès'
+      redirect_to root_url
+  end
+
 end
