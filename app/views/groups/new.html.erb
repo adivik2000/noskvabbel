@@ -1,0 +1,9 @@
+<h3>New group</h3>
+
+<% form_for(@group) do |f| %>
+  <%= f.error_messages %>
+
+    <%= f.label :name %> <%= f.text_field :name %>
+    <br/>
+  <%= f.submit 'Create', :class=>"action_button" %>
+<% end %>
