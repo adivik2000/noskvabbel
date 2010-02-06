@@ -40,11 +40,11 @@ Feature: A user manages his account
     Then I should see "Bienvenue gincy :)"
 
 
-#Scenario: Delete
- #   Given I am logged in as zifro
-  #  When I follow "My account"
-   #     And I press "Delete my account"
-    #Then I should see "Aurevoir !"
+Scenario: Delete
+    Given I am logged in as zifro
+    When I follow "My account"
+        And I press "Delete my account"
+    Then I should see "Delete with success"
 
 
 Feature: An administator manages all the users
