@@ -47,10 +47,10 @@ Scenario: Delete
     Then I should see "Delete with success"
 
 
-Feature: An administator manages all the users
-	In order to house-keep the application
-	As an administrator
-	I want to log in, log out, update users' information and delete accounts
+#Feature: An administator manages all the users
+#	In order to house-keep the application
+#	As an administrator
+#	I want to log in, log out, update users' information and delete accounts
 	
 	
 	
